@@ -12,10 +12,7 @@ import java.awt.CardLayout;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author FERNANDO
- */
+
 public class JPBaseDeDatos extends javax.swing.JPanel {
     
     /**
