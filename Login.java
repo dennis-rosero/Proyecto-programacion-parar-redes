@@ -7,10 +7,7 @@ import java.awt.CardLayout;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author FERNANDO
- */
+
 public class JPMenu extends javax.swing.JPanel {
 
     /**
